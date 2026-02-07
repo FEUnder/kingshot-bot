@@ -1,4 +1,4 @@
-# Terms of Service (ToS) – Alliance Event Bot
+# Terms of Service (ToS) – Kingshot Bot
 ## 1. Scope of Service
 This bot is currently provided exclusively for members of the **SYNergy (#1004)**. Use by other entities or on other servers is at one's own risk and may be restricted by the developer at any time without prior notice.
 
