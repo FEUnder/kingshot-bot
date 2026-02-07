@@ -44,9 +44,9 @@ For event management, look at section [Eventmanagement](#eventmanagement).
 
 
 ## Member Commands
-|Command | Params | Description |
-|--------|--------|-------------|
-|/event_list || Displays an interactive panel showing all upcoming events for a specific alliance.|
+|Command | Description |
+|--------|-------------|
+|/event_list | Displays an interactive panel showing all upcoming events for a specific alliance.|
 
 ## Eventmanagement
 
